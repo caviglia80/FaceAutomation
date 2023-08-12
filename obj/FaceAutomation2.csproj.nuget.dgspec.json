@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\FA\\FaceAutomation2\\FaceAutomation2.csproj": {}
+    "C:\\GitHub\\FaceAutomation\\FaceAutomation2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\FA\\FaceAutomation2\\FaceAutomation2.csproj": {
+    "C:\\GitHub\\FaceAutomation\\FaceAutomation2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\FA\\FaceAutomation2\\FaceAutomation2.csproj",
+        "projectUniqueName": "C:\\GitHub\\FaceAutomation\\FaceAutomation2.csproj",
         "projectName": "FaceAutomation2",
-        "projectPath": "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\FA\\FaceAutomation2\\FaceAutomation2.csproj",
+        "projectPath": "C:\\GitHub\\FaceAutomation\\FaceAutomation2.csproj",
         "packagesPath": "C:\\Users\\cavig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\FA\\FaceAutomation2\\obj\\",
+        "outputPath": "C:\\GitHub\\FaceAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cavig\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GvXEE2YUkx4Eo37FLGDknTxZVCXk9kUFF8lICIKslPQ6w1Xp9LQLSHHjqm82VlFyTVFcADy3CTSuQSzk0dlq4g==",
+  "dgSpecHash": "6Ha5DqXBcQ8oAdaLQ9r2W6OnDdRUH/Bf6+rXuUFo/kv86WwRJ1jssxtP1OJ7B30mPqQxz8vkJEf18y3EJ1QNqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cavig\\OneDrive\\Escritorio\\PIP\\FA\\FaceAutomation2\\FaceAutomation2.csproj",
+  "projectFilePath": "C:\\GitHub\\FaceAutomation\\FaceAutomation2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cavig\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\cavig\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",

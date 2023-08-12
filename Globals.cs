@@ -36,9 +36,9 @@ namespace FaceAutomation2
 		public static string FTP = ""; //"ftp://xxxx.ferozo.com"
 		public static string Licencias = "";
 
-		public static TelegramBotClient BOT = new("5201967196:AAHOngL1Ter9HV2hlih8GJWt3JBO7OJhVQQ");
-		public static TelegramBotClient BOT_Debug = new("5230179231:AAHtPxt_6fUCL-_5cqdpYrm0-N_cTrdjsIg");
-		public static string ID_Chat_Debug = "1821497307";
+		public static TelegramBotClient BOT = new("");
+		public static TelegramBotClient BOT_Debug = new("");
+		public static string ID_Chat_Debug = "";
 
 
 
